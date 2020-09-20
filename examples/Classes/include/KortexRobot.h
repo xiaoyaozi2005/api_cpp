@@ -102,7 +102,7 @@ protected:
     //p means pointer
     Kinova::Api::TransportClientTcp *m_pTcpClient;
     Kinova::Api::RouterClient *m_pRouterClient;
-    Kinova::Api::SessionManager *m_pSessionManager;
+    Kinova::Api::SessionManager *m_pSessionManager;  //sss
     Kinova::Api::DeviceConfig::DeviceConfigClient *m_pDeviceConfigClient;
 
 };
