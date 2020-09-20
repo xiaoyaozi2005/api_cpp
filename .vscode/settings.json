@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "*.h": "cpp",
+        "*.cpp": "cpp",
+        "condition_variable": "cpp",
+        "future": "cpp"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/examples"
+}

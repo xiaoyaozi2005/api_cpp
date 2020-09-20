@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/Integration_FullExample2.dir/Integration/FullExample2.cpp.o  -o Integration_FullExample2 ../kortex_api/lib/release/libKortexApiCpp.a -lpthread 

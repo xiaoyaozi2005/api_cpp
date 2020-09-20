@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/105-Gen3_i2c_bridge_01-i2c_bridge.dir/105-Gen3_i2c_bridge/01-i2c_bridge.cpp.o  -o 105-Gen3_i2c_bridge_01-i2c_bridge ../kortex_api/lib/release/libKortexApiCpp.a -lpthread 

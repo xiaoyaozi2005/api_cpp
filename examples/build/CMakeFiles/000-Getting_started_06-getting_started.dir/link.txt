@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/000-Getting_started_06-getting_started.dir/000-Getting_started/06-getting_started.cpp.o  -o 000-Getting_started_06-getting_started ../kortex_api/lib/release/libKortexApiCpp.a -lpthread 
